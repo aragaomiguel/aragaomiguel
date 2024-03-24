@@ -1,7 +1,7 @@
 ### Hi! I'm Miguel Aragão
 
 - 🔭 I’m currently UX/UI designer, Dev web full stack and DevOps
-- 🌱 Always learning something new
+- 📈 Always learning something new
 - 📪 However, if you would like further information, please contact: miguel.aragao.dev@gmail.com
 - 😉 Pronouns: he/him
 
